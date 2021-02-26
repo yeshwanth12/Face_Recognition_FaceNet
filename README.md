@@ -34,7 +34,7 @@ Here are some examples of distances between the encodings between three individu
 The execution environment is specified in the requirements.txt
 
 # Results
-Younes is at the front-door and the camera takes a picture of [him]("/images/camera_0.jpg"). Let's see if your algorithm identifies Younes.
+Younes is at the front-door and the camera takes a picture of [him]("images/camera_0.jpg"). Let's see if your algorithm identifies Younes.
 >it's younes, the distance is 0.659393
 
 
