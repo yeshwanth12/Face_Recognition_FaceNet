@@ -31,10 +31,10 @@ Here are some examples of distances between the encodings between three individu
 <img src="images/distance_matrix.png" style="width:380px;height:200px;">
 
 # Dependencies
-The execution environment is specified in the requirements.txt
+The execution environment is specified in the [requirements.txt](requirements.txt)
 
 # Results
-Younes is at the front-door and the camera takes a picture of [him]("images/camera_0.jpg"). Let's see if your algorithm identifies Younes.
+Younes is at the front-door and the camera takes a picture of [him](/images/camera_0.jpg). Let's see if your algorithm identifies Younes.
 >it's younes, the distance is 0.659393
 
 
