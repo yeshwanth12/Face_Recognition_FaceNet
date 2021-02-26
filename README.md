@@ -33,6 +33,11 @@ Here are some examples of distances between the encodings between three individu
 # Dependencies
 The execution environment is specified in the requirements.txt
 
+# Results
+Younes is at the front-door and the camera takes a picture of [him]("/images/camera_0.jpg"). Let's see if your algorithm identifies Younes.
+>it's younes, the distance is 0.659393
+
+
 # References
 - Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 - Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf (2014). [DeepFace: Closing the gap to human-level performance in face verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf) 
